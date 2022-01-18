@@ -87,7 +87,7 @@ header {
   justify-content: space-between;
   align-items: center; }
   .header_flex .my_name {
-    font-family: "Bebas Neue";
+    font-family: "Bebas Neue","Montserrat", sans-serif;
     font-size: 1.56rem;
     font-weight: 500;
     letter-spacing: 0.3vw; }
